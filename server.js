@@ -16,7 +16,7 @@ const app = express();
 app.use(
   helmet.contentSecurityPolicy({
     directives: {
-      defaultSrc: ["*", "data:", "blob:", "'unsafe-inline'"]
+      defaultSrc: ["*", "data:", "blob:", "'unsafe-inline'","'unsafe-eval'"]
     },
   })
 );
