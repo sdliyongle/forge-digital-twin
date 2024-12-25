@@ -167,7 +167,7 @@ function initMaintenanceTab(mainViewer) {
     }
 
     function initializeViewerApp() {
-        const urn = 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6Zm9yZ2UtZGlnaXRhbC10d2luL1ZCTDQuZHdn';
+        const urn = 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6Zm9yZ2UyL1dvcmtzcGFjZS56aXA';
         function onDocumentLoadSuccess(doc) {
             const node = doc.getRoot().getDefaultGeometry();
             maintenanceViewer.loadDocumentNode(doc, node)
