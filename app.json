@@ -11,13 +11,13 @@
     ],
     "env": {
         "FORGE_CLIENT_ID": {
-            "description": "Forge Client ID"
+            "description": "mwff2MFr5UgqcwqKRtMueK1WATZV9KpIQeKMQBgVKKo7Q9fn"
         },
         "FORGE_CLIENT_SECRET": {
-            "description": "Forge Client Secret"
+            "description": "8PsVBwYiDr0YZwgNkM6a5d7D836D8pPCLrv57URKHw82ktnwJXgOcpioqAcJ6lzP"
         },
         "FORGE_MODEL_URN": {
-            "description": "Base64-encoded URN of a model processed with Forge Model Derivative service"
+            "description": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6Zm9yZ2UyL1dvcmtzcGFjZS56aXA"
         }
     },
     "website": "https://forge.autodesk.com/",
