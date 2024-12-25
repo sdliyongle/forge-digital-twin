@@ -3,7 +3,7 @@
   "version": "1.3.3",
   "description": "Autodesk Forge application demonstrating various use cases in manufacturing, specifically in context of digital twins.",
   "scripts": {
-    "start": "node server.js"
+    "start": "FORGE_CLIENT_ID='mwff2MFr5UgqcwqKRtMueK1WATZV9KpIQeKMQBgVKKo7Q9fn' FORGE_CLIENT_SECRET='8PsVBwYiDr0YZwgNkM6a5d7D836D8pPCLrv57URKHw82ktnwJXgOcpioqAcJ6lzP' FORGE_MODEL_URN='dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6Zm9yZ2UyL1dvcmtzcGFjZS56aXA' MONGODB_URL: 'mongodb+srv://1961386910:qq196138@cluster0.p3w8o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0' node server.js"
   },
   "keywords": [
     "autodesk",
